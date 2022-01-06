@@ -1,7 +1,7 @@
 # Fontawesome-6-pro
 Fontawesome (any version lol) pro.
 
-##Usage
+## Usage
 1. Go to [fontawesome site](https://fontawesome.com)
 2. Click on docs button at the top of the page
 3. To see what is the latest version please check these images
