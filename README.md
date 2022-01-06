@@ -12,6 +12,7 @@ Fontawesome (any version lol) pro.
 > Beta (real latest)
 *atm 6.0.0-beta3*
 ![image](https://user-images.githubusercontent.com/96440226/148431028-659e1d5f-09a6-407e-b0dc-6f8158c12ea5.png)
+*you should scroll down a bit until you see this btw*
 4. When you got your desired version you're basically done. Simple right
 5. Embed this code into your html file (code should be put inside `<head></head>` tags)
 ```html
