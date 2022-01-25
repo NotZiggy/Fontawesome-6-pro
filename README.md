@@ -1,4 +1,4 @@
-# Fontawesome-6-pro
+# Fontawesome stylesheet link
 Fontawesome (any version lol) pro.
 
 ## Usage
